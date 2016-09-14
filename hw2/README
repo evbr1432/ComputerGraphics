@@ -1,0 +1,30 @@
+/*Works Cited
+
+http://gamejust4u.webs.com/apps/forums/topics/show/8127559-opengl-color-guide
+
+https://gist.github.com/23ars/4545671
+
+http://www.lighthouse3d.com/tutorials/glut-tutorial/keyboard-example-moving-around-the-world/
+*/
+
+hw2: 3D Objects and 1st person
+
+Hours to complete: 15 hours
+
+Evan Brookens
+CSCI4229/5229 Summer 2016
+
+Demonstrates how to draw objects in 3D.
+Show a stary night with beds.
+
+Key bindings
+  m          Go from orthoganal view to 1st person 			           perspective
+  a          Toggle axes
+  0          Reset view angle
+  ESC        Exit
+
+  *****1st person*****
+  arrows     Control camera
+
+ *****Orthoganol View*****
+  arrows     Change view angle

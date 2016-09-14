@@ -1,0 +1,32 @@
+/*Works Cited
+
+http://gamejust4u.webs.com/apps/forums/topics/show/8127559-opengl-color-guide
+
+https://gist.github.com/23ars/4545671
+
+http://www.lighthouse3d.com/tutorials/glut-tutorial/keyboard-example-moving-around-the-world/
+*/
+
+hw2: 3D Objects and 1st Person
+
+Hours to complete: 15 hours
+
+Evan Brookens
+CSCI4229/5229 Summer 2016
+
+Demonstrates how to draw objects in 3D.
+Show a stary night with beds.
+
+Key bindings
+  m          Switch mode to model view to 1st person
+  p          In model view switch from orthoganal and
+  			 perspective modes
+  arrows	 Change view anagle in model views
+  			 Move camer in 1st person
+  page up    Raise Dim
+  page down  Lower Dim			 
+  a          Toggle axes
+  0          Reset view angle
+  ESC        Exit
+
+ 

@@ -1,0 +1,35 @@
+Connor Davis
+Homework 3: Lighting and Textures
+CSCI4229 Summer 2016
+
+Display multiple objects in 3D
+Time to Complete: 12 hours
+ 
+Key bindings
+  
+  a          Toggle axes
+  0          Reset view angle
+  1	     Toggle 1st Person mode ***Can only be done while already in Perspective***
+
+  In 1st Person Mode:
+  Up	     Moves camera forward 
+  Left	     Rotates camera angle left
+  Right      Rotates camera angle right
+  Down	     Moves camera backward
+
+  -	     Zoom in in Perspective mode
+  +	     Zoom out in Perspective mode
+  PgDn/PgUp  Zoom in and out  
+  arrows     Change view angle (in Perspective Mode)
+
+  l          Toggles lighting
+  a/A        Decrease/increase ambient light
+  d/D        Decrease/increase diffuse light
+  s/S        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  F3         Toggle light distance (1/5)
+  m          Toggles light movement
+  []         Lower/rise light
+  x          Toggle axes
+  ESC        Exit

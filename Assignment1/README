@@ -1,0 +1,19 @@
+Assignment 1: Lorenz Attractor
+
+Evan Brookens
+CSCI4229 Fall 2014
+
+Displays Lorenz Attractor in a 3D space
+
+Key bindings
+  S 	 Make sigma's data grow begining at 10
+  s      Make sigma's data decrease
+  B 	 Make beta's data grow begining at 2
+  b 	 Make beta's data decrease
+  R 	 Make rho's data grow: beings at 20
+  r 	 Make rho's data decrease
+  arrows Change view angle
+  0      Reset view angle
+  ESC    Exit
+
+Time to complete this assignment: 4hrs 
